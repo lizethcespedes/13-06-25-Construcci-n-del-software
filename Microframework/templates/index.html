@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}Formulario de Datos{% endblock %}
+{% block content %}
+<h2>Ingresar Datos</h2>
+<form action="{{ url_for('procesar') }}" method="post" class="mb-4">
+    <div class="mb-3">
+        <label>Nombre:</label>
+        <input type="text" name="nombre" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label>Edad:</label>
+        <input type="number" name="edad" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label>Salario:</label>
+        <input type="number" step="any" name="salario" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+<a href="{{ url_for('dashboard') }}" class="btn btn-secondary">Ver Dashboard</a>
+{% endblock %}
