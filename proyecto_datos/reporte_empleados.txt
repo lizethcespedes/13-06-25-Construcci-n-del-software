@@ -1,0 +1,228 @@
+Datos completos:
+      id                 nombre  edad departamento  salario
+0      1     Samantha Rodriguez    57       Ventas  2667.33
+1      2           Kathy Barton    46       Ventas  3512.79
+2      3        Briana Anderson    22           TI  4015.90
+3      4            Lisa Ibarra    27     Finanzas  2320.56
+4      5          Michael Gomez    42           TI  4081.39
+5      6        Ronald Phillips    40           TI  3883.91
+6      7           Emily Robles    57     Finanzas  1679.06
+7      8          Tracey Rivera    42           TI  2474.07
+8      9            Julia Brown    50     Finanzas  3443.80
+9     10     Christopher Nguyen    43         RRHH  1663.82
+10    11         Robert Padilla    45     Finanzas  4125.89
+11    12        Monica Marshall    20     Finanzas  3412.44
+12    13      Christopher Smith    27       Ventas  4935.18
+13    14       Mitchell Johnson    38     Finanzas  2125.10
+14    15          Richard Davis    48         RRHH  3343.21
+15    16            Jacob Riley    22       Ventas  4193.34
+16    17          Robert Joseph    22     Finanzas  3058.52
+17    18      Rebecca Harper MD    21     Finanzas  3995.35
+18    19      Colleen Harris MD    26         RRHH  3611.28
+19    20            Aaron Jones    22     Finanzas  2829.00
+20    21          Michael David    59       Ventas  2463.22
+21    22         Rachel Cochran    45           TI  4110.71
+22    23           Daniel Smith    24       Ventas  2304.88
+23    24           Lori Barrera    20       Ventas  1909.11
+24    25        Jeffery Hancock    21           TI  2973.04
+25    26         David Hamilton    58     Finanzas  3530.64
+26    27           Ruth Andrews    22           TI  2566.03
+27    28             David Hall    40     Finanzas  3714.53
+28    29          Nicole Obrien    31           TI  4783.38
+29    30           Gary Kennedy    40           TI  3479.17
+30    31           Maria Martin    21         RRHH  3335.04
+31    32         Jennifer Davis    50     Finanzas  4465.53
+32    33           Mario Walker    52         RRHH  1729.53
+33    34           Sarah Thomas    36           TI  4949.20
+34    35             Mark Smith    52       Ventas  4363.70
+35    36           Curtis Ramos    29     Finanzas  3227.21
+36    37             Dale Lewis    45       Ventas  4606.02
+37    38         Richard Jensen    35       Ventas  3076.81
+38    39           Sherri Bowen    60           TI  4657.13
+39    40             Shannon Yu    55       Ventas  4653.56
+40    41        Dalton Buchanan    42     Finanzas  3671.54
+41    42         Kelly Carrillo    28           TI  4164.41
+42    43       Michelle Stewart    48     Finanzas  3240.97
+43    44            John Fields    55           TI  4024.66
+44    45          Anthony Braun    47     Finanzas  4818.14
+45    46         Samuel Patrick    43       Ventas  2489.49
+46    47        Jessica Mcguire    40     Finanzas  2687.46
+47    48      Shannon Contreras    34           TI  4277.61
+48    49           Raymond Sims    30         RRHH  4550.55
+49    50        Jennifer Wilson    45       Ventas  4157.20
+50    51         Amanda Fischer    48     Finanzas  3386.55
+51    52  Mrs. Nicole Bailey MD    50       Ventas  4176.39
+52    53          Jillian Smith    48       Ventas  1933.42
+53    54         Barbara Little    21         RRHH  1673.50
+54    55            Daniel Hill    43         RRHH  2510.12
+55    56          Christy Adams    50         RRHH  4147.09
+56    57           Jeremy Henry    41         RRHH  3226.07
+57    58            Amber White    21       Ventas  1976.16
+58    59          Debbie Fisher    21     Finanzas  1647.52
+59    60         Robert Spencer    48       Ventas  3293.62
+60    61      Christopher Roman    36           TI  3665.56
+61    62           Sally Warren    42     Finanzas  2472.85
+62    63            Mark Wilson    43     Finanzas  4224.34
+63    64           Hannah Kelly    53     Finanzas  1822.28
+64    65           Justin Smith    28       Ventas  3995.95
+65    66         David Copeland    44       Ventas  4726.89
+66    67           Amanda Moore    32           TI  3707.03
+67    68           Kelly Phelps    28       Ventas  1925.15
+68    69              Sean Todd    53       Ventas  1888.51
+69    70           Sarah Mathis    25     Finanzas  2522.80
+70    71             Kelly Ford    57         RRHH  2895.97
+71    72              Kyle Moss    51           TI  1901.19
+72    73          Jeffrey Brown    42       Ventas  4314.13
+73    74          Joseph Newman    28     Finanzas  3681.07
+74    75           Melvin Jones    57           TI  1878.56
+75    76             Laura Cruz    27     Finanzas  1947.52
+76    77              Ana Dixon    55     Finanzas  1820.64
+77    78            Connor Reed    48           TI  2346.78
+78    79       Samuel Gutierrez    30         RRHH  1745.33
+79    80          Jason Roberts    35       Ventas  1902.72
+80    81           Daniel Colon    54     Finanzas  3443.20
+81    82        Spencer Collins    41     Finanzas  4807.40
+82    83          Thomas Carter    55     Finanzas  2806.15
+83    84            Cathy Smith    48           TI  2257.81
+84    85             Mary Pratt    39       Ventas  3077.18
+85    86             Mark Jones    45       Ventas  1641.13
+86    87         Shelley Rangel    60       Ventas  3783.25
+87    88        Shane Zimmerman    23     Finanzas  2077.28
+88    89      Zachary Cervantes    60     Finanzas  3017.52
+89    90          Thomas Parker    60       Ventas  4329.46
+90    91       Herbert Valencia    22         RRHH  2438.02
+91    92          Tamara Wilson    42         RRHH  3606.41
+92    93             Holly Tran    25       Ventas  1784.26
+93    94            Robert Love    41         RRHH  2930.67
+94    95          Tiffany Jones    28         RRHH  1762.98
+95    96            Larry Avila    25     Finanzas  1571.24
+96    97            Charles Liu    48           TI  4280.08
+97    98          Nancy Simpson    53       Ventas  3221.72
+98    99           Austin Moore    54         RRHH  2016.85
+99   100      Christopher Bryan    41       Ventas  2144.40
+100  101          Erin Campbell    53       Ventas  1898.57
+101  102       Margaret Flowers    38         RRHH  2675.00
+102  103           Justin Hanna    29       Ventas  2904.39
+103  104            Craig Villa    58         RRHH  4649.60
+104  105             Anna Stone    58       Ventas  2357.96
+105  106         Patrick Turner    48           TI  4334.56
+106  107         Marcus Fischer    28           TI  4109.35
+107  108          Stephen Keith    37           TI  3460.28
+108  109         Bridget Stokes    41           TI  3930.25
+109  110       Matthew Williams    55     Finanzas  4996.78
+110  111       Michelle Johnson    36     Finanzas  3687.45
+111  112            Andrea West    34           TI  4420.14
+112  113       William Gonzalez    32           TI  3427.58
+113  114       Loretta Johnston    60         RRHH  4276.16
+114  115           Bradley Todd    56       Ventas  2393.36
+115  116           Jack Jenkins    26         RRHH  4931.40
+116  117        Veronica Spears    54       Ventas  2238.06
+117  118         Joshua Carroll    22     Finanzas  3365.43
+118  119       Crystal Campbell    54       Ventas  4955.29
+119  120           Jacob Carter    35       Ventas  2316.72
+120  121           Brianna Shaw    36           TI  2331.30
+121  122        Andrew Robinson    36       Ventas  2249.19
+122  123            Brenda Kirk    52         RRHH  2666.07
+123  124         Bruce Whitaker    47         RRHH  4872.81
+124  125           Matthew Tran    34       Ventas  1759.85
+125  126            Aaron Clark    54       Ventas  1589.03
+126  127         Noah Hernandez    36       Ventas  3310.90
+127  128          Robert Hunter    22       Ventas  3209.83
+128  129            Brian Scott    35       Ventas  4432.52
+129  130           Maria Mclean    57           TI  3850.77
+130  131         Jessica Nguyen    34         RRHH  3912.32
+131  132       Kimberly Jackson    40           TI  3099.25
+132  133           Scott Rivera    27     Finanzas  4863.58
+133  134           William Mora    41         RRHH  2476.18
+134  135         Zachary Cooper    40           TI  4953.63
+135  136       William Anderson    47         RRHH  2275.40
+136  137      Katherine Burnett    21           TI  2249.13
+137  138              Louis Roy    31       Ventas  1704.38
+138  139          Charles Smith    46         RRHH  4439.74
+139  140             Donald Liu    43     Finanzas  1729.54
+140  141           Laura Morgan    51     Finanzas  2052.61
+141  142          Monique Wells    49       Ventas  2173.40
+142  143        Gerald Galloway    60         RRHH  1886.41
+143  144         Rhonda Burnett    59         RRHH  1712.04
+144  145           Brittany Lee    26       Ventas  3736.30
+145  146        Virginia Foster    28           TI  2257.40
+146  147           Daniel Black    21       Ventas  3688.43
+147  148         David Peterson    29           TI  1796.34
+148  149             Amy Jordan    52           TI  3840.26
+149  150       Kirsten Mckenzie    60     Finanzas  2452.82
+150  151         Hayden Bradley    23           TI  4341.97
+151  152             Joan Boyle    38           TI  2195.96
+152  153         Melissa Miller    40           TI  2666.69
+153  154          Heather Munoz    47     Finanzas  2311.41
+154  155            James Weber    53       Ventas  3492.55
+155  156      Elizabeth Bridges    21       Ventas  4468.85
+156  157            Sarah Baker    40         RRHH  1899.13
+157  158            Lucas Bates    37     Finanzas  4033.54
+158  159         Joseph Johnson    34         RRHH  3779.06
+159  160          David Sellers    35       Ventas  2741.24
+160  161         David Gonzalez    40         RRHH  3164.00
+161  162           Daniel Jones    26         RRHH  1885.63
+162  163         Gabriela Green    50     Finanzas  2211.11
+163  164         Austin Jackson    23         RRHH  4105.63
+164  165         Jennifer Lopez    20     Finanzas  2085.83
+165  166          Zachary Combs    23     Finanzas  4406.06
+166  167            Tracy Hodge    50     Finanzas  4125.07
+167  168           Dawn Schultz    23       Ventas  1758.61
+168  169              Mark Long    24       Ventas  3594.73
+169  170          Julie Jenkins    37     Finanzas  4592.81
+170  171             Holly Rose    48       Ventas  4031.67
+171  172              Cathy Lee    53     Finanzas  4227.02
+172  173              Dale Wall    60         RRHH  1910.39
+173  174            Jean Mooney    20           TI  4842.92
+174  175         Mariah Bonilla    22         RRHH  2475.99
+175  176          Chelsea Weeks    50       Ventas  2643.27
+176  177       Stephanie Macias    34         RRHH  3445.00
+177  178            Frank Mccoy    53           TI  1995.87
+178  179           Tracy Gibson    30           TI  4467.83
+179  180          Michael Reyes    41         RRHH  1692.59
+180  181      Thomas Fitzgerald    20     Finanzas  2242.90
+181  182         Dustin Barrett    30     Finanzas  2008.29
+182  183        Alex Villanueva    21       Ventas  3036.18
+183  184            Sandra West    52     Finanzas  4198.68
+184  185       Vincent Delacruz    34           TI  3612.63
+185  186          Franklin Diaz    53           TI  3505.79
+186  187            Brian Hayes    22     Finanzas  1561.95
+187  188         Anthony Bryant    31       Ventas  1648.78
+188  189      Christina Stevens    20           TI  2450.81
+189  190            Kim Watkins    43         RRHH  2166.40
+190  191            Jamie Perez    56           TI  1758.57
+191  192     Christopher Harper    24     Finanzas  2899.68
+192  193       Elizabeth Fisher    21       Ventas  4163.38
+193  194          Kevin Hampton    34           TI  3367.94
+194  195          Carlos Pruitt    51         RRHH  2030.02
+195  196          Heather Munoz    31       Ventas  1887.38
+196  197            John Werner    60     Finanzas  4766.23
+197  198     Christopher Bender    50         RRHH  3597.44
+198  199           Sydney Perez    27         RRHH  1530.25
+199  200         Nicholas Davis    20           TI  4304.43
+
+Resumen por Departamento:
+              count         mean      max      min
+departamento                                      
+Finanzas         53  3139.865849  4996.78  1561.95
+RRHH             42  2896.216667  4931.40  1530.25
+TI               47  3447.856809  4953.63  1758.57
+Ventas           58  3031.582586  4955.29  1589.03
+
+Top 5 Empleados Mejor Pagados:
+      id             nombre  edad departamento  salario
+109  110   Matthew Williams    55     Finanzas  4996.78
+118  119   Crystal Campbell    54       Ventas  4955.29
+134  135     Zachary Cooper    40           TI  4953.63
+33    34       Sarah Thomas    36           TI  4949.20
+12    13  Christopher Smith    27       Ventas  4935.18
+
+Salario Promedio General: $3129.68
+
+
+Edad Promedio por Departamento:
+departamento
+Finanzas    39.15
+RRHH        40.67
+TI          37.91
+Ventas      39.50
